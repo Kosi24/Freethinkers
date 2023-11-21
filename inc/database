@@ -1,0 +1,17 @@
+<?php
+$db = mysqli_connect("localhost", "root", "", "book_inforce");
+
+/*checkinh that database connected or not*/
+/*
+if(!$db)
+{
+    echo "Error";
+}
+else
+{
+    echo "Database Connected";
+}
+
+
+?>
+*/
