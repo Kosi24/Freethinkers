@@ -1,4 +1,7 @@
-<div class="sidebar close">
+trytrytrytrytytrytr
+
+
+iukujyj<div class="sidebar close">
     <div class="sidebar-brand">
       <i class="fa-solid fa-book-open"></i>
       <span class="logo_name">Book INforce</span>
@@ -10,11 +13,11 @@
           <span class="link_name">Dashboard</span>
         </a>
         <ul class="sub-menu blank">
-          <li><a class="link_name" href="dashboard.php">Category</a></li>
+          <li><a class="link_ntrytrytytrytrame" href="dashboard.php">Category</a></li>
         </ul>
       </li>
 
-      <li>
+      <li>trrytrytry
         <a href="aprofile.php">
           <i class='fa-solid fa-address-card' ></i>
           <span class="link_name">profile</span>
