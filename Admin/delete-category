@@ -1,0 +1,25 @@
+<?php
+session_start();
+
+if(!isset($_SESSION["id"]))
+{
+    ?>
+    header("location:../index.php");
+   <?php
+}
+
+include ("../inc/database.php");
+
+if (isset($_GET["categoryId"])){
+    $id = $_GET["categoryId"];
+    mysqli_query($db, "delete from bookcategory where categoryId=$id");
+
+
+    ?>
+    <script type="text/javascript">
+        window.location="manage_category.php";
+    </script>
+    <?php
+}
+
+?>
