@@ -72,6 +72,7 @@ This project was developed for academic purposes and is not intended for commerc
 ---
 
 ## 📎 Project Link
+        https://github.com/Kosi24/Freethinkers.git
 
 🔗 
 
